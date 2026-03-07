@@ -23,7 +23,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
             </p>
             <div class="flex items-center gap-4">
               <img 
-                alt="Mike Jordan" 
+                alt="Daniel" 
                 class="w-14 h-14 rounded-full border-2 border-brand-yellow object-cover" 
                 src="https://lh3.googleusercontent.com/aida-public/AB6AXuBmIk9UWBaupwETC_H_KH7Q9vHhPr2719v7voW9CZZdY8Hk5kwrFRr3YYCZfgdP3bfyXkWX55y2pFjnDCdqNZlUchavmjK90NxDSuT4FUVBQJ6el0-1vpvizO9lzU8y8fxpDaPgSPbB9Ci9H1xzZDmNGldG0-kuH8rP5wHTmzUWWBUVS8MkGL_TyIlxVskdH1i35KsGgnPlLuuJRKm3Uh4ZwRr8wS1nmLFQla16qButW3B2k_tmDzPnz3h6RbRrlzqnTq5uy6j6GjKX"
                 referrerpolicy="no-referrer"
