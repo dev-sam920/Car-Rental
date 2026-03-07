@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-yellow: #FFCC00;
+  --color-brand-dark: #111111;
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-white text-brand-dark;
+  }
+}
+
+@layer utilities {
+  .curve-top {
+    clip-path: ellipse(100% 100% at 50% 100%);
+  }
+  .curve-bottom {
+    clip-path: ellipse(100% 100% at 50% 0%);
+  }
+}
