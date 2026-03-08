@@ -29,8 +29,8 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
                 referrerpolicy="no-referrer"
               />
               <div>
-                <h5 class="font-bold text-base">Mike Jordan</h5>
-                <span class="text-brand-yellow text-sm italic">Teacher</span>
+                <h5 class="font-bold text-base">Daniel</h5>
+                <span class="text-brand-yellow text-sm italic">Lawyer</span>
               </div>
             </div>
           </div>
